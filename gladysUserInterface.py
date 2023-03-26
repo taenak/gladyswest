@@ -141,3 +141,4 @@ def get_position(position_type):
 	"""
 	# TODO: implement this function
 	pass
+#ggg
